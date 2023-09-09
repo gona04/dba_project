@@ -1,6 +1,4 @@
--- Temitope Adebiyi(A00277004)
--- &
--- Goonja Gandhi(A00277328)
+
 
 -- Delete data from checkout_items
 DELETE FROM `local_library`.`checkout_items` WHERE `checkout_id` IN (SELECT `checkout_id` FROM `local_library`.`checkout` WHERE `membership_card_id` = 1);
