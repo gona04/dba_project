@@ -2,9 +2,6 @@
 -- Wed Aug 16 10:20:42 2023
 -- Model: New Model    Version: 1.0
 -- MySQL Workbench Forward Engineering
--- Temitope Adebiyi(A00277004)
--- &
--- Goonja Gandhi(A00277328)
 
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
