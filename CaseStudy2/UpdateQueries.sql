@@ -1,6 +1,3 @@
--- Temitope Adebiyi(A00277004)
--- &
--- Goonja Gandhi(A00277328)
 
 -- Update data in book_categories
 UPDATE `local_library`.`book_categories` SET `book_category_name` = 'New Fiction' WHERE `book_category_id` = 1;

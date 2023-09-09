@@ -1,6 +1,3 @@
--- Temitope Adebiyi(A00277004)
--- &
--- Goonja Gandhi(A00277328)
 
 -- -----------------------------------------------------
 -- QUESTION 1 Caculating over_due amount and days and showing the amount

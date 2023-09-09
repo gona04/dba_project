@@ -1,6 +1,3 @@
--- Temitope Adebiyi(A00277004)
--- &
--- Goonja Gandhi(A00277328)
 
 -- Insert data into members
 INSERT INTO `local_library`.`members` (`member_first_name`, `member_last_name`, `member_joining_date`, `member_phone_no`, `member_email_id`, `member_address_line_1`, `member_state`, `member_city`, `member_country`) VALUES
